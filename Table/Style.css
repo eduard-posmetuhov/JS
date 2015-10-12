@@ -1,0 +1,16 @@
+table{
+	border: 1px solid black;
+}
+td {
+    width: 40px;
+    height: 40px;
+	border: 1px solid black;
+}
+
+.red_background{
+    background-color: red;
+}
+
+.blue_background {
+    background-color: blue;
+}
